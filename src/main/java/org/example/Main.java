@@ -34,7 +34,7 @@ public class ProductsArray {
         product[16] = "mandarina";
         product[17] = "cilantro";
         product[18] = "pera";
-        product[19] = "ango";
+        product[19] = "mango";
 
 
         // 4. Imprimir los nombres que empiezan con la letra "A".
